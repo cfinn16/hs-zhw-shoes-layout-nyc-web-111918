@@ -29,11 +29,11 @@
 }
 
 .big-column {
-  column-span: ;
+  column-span: 2;
 }
 
 .small-column {
-  width: 32%;
+  column-span: 1;
   float: right;
 }
 
