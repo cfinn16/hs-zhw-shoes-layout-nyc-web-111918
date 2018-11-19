@@ -33,7 +33,6 @@
 }
 
 .small-column {
-  column-span: 1;
   float: right;
 }
 
