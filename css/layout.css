@@ -23,16 +23,11 @@
 }
 
 /* Posititoning Classes */
-.two-columns {
-  column-count: 2;
-  column-gap: 10px;
-}
 
-.big-column {
-  width: 65%;
+.col-2-3 {
+  width: 66.66%;
 }
-
-.small-column {
-  float: right;
+.col-1-3 {
+  width: 33.33%;
 }
 
