@@ -25,11 +25,11 @@
 /* Posititoning Classes */
 .two-columns {
   column-count: 2;
+  column-gap: 10px;
 }
 
 .big-column {
   width: 66%;
-  padding: 10px; 
 }
 
 .small-column {
