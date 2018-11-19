@@ -23,13 +23,13 @@
 }
 
 /* Posititoning Classes */
-.two-columns {
-  column-count: 2;
+.columns {
+  column-count: 3;
   column-gap: 10px;
 }
 
 .big-column {
-  width: 66%;
+  column-span: ;
 }
 
 .small-column {
