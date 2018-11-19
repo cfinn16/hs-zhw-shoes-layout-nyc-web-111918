@@ -32,3 +32,8 @@
   padding: 10px; 
 }
 
+.small-column {
+  width: 32%;
+  float: right;
+}
+
