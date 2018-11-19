@@ -35,3 +35,7 @@
   width: 33.33%;
 }
 
+.first-col {
+  width: 33.33%;
+  float: right;
+}
