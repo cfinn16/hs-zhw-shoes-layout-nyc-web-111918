@@ -29,7 +29,7 @@
 }
 
 .big-column {
-  column-span: 2;
+  width: 65%;
 }
 
 .small-column {
