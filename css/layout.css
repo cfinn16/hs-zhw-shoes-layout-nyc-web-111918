@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 .two-columns {
-  
+  column-count: 2;
 }
 
 .two-thirds-column {
