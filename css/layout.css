@@ -36,5 +36,6 @@
 }
 
 .three-columns {
+  column-count: 3;
   
 }
